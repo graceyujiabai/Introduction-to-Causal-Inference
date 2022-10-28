@@ -1,2 +1,2 @@
 # Introduction-to-Causal-Inference
-PBHS43201 at UChicago with Prof Yamaguchi
+Intro to Causal Inference at UChicago with Prof Yamaguchi
